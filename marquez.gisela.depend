@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621291516 source:c:\users\gmarquez\desktop\parcial.marquez.1.lab.prog\marquez.gisela\main.c
+	<stdio.h>
+	<stdlib.h>
+
